@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+ud0omqi%t9@rs_8mwjqsu(95m(kpmmq7w7mj*%*3+8r$21cn)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['primeprint.azurewebsites.net']
 
 
 # Application definition
